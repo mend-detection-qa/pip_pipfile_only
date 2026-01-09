@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "==2.31.0"
+django = "==2.2.0"
+flask = "==2.2.5"
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.18"
