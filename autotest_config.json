@@ -93,7 +93,7 @@
                 },
                 {
                     "operator": "regex",
-                    "value": "Found Python version \\(3\\.9\\.18\\) for Pip project at \"/.*pipenv_basic_sanity.*\""
+                    "value": "Found Python version \\(3\\.9\\.18\\) for Pip project at \"/.*pip_pipfile_only.*\""
                 },
                 {
                     "operator": "eq",
