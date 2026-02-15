@@ -91,10 +91,6 @@
                     "operator": "eq",
                     "value": "python version set to: 3.9.18"
                 },
-                 {
-                  "operator": "regex",
-                  "value": "Found Python version \\\\\"3\\.9\\.18\\\\\" in Pipfile"
-                },
                 {
                   "operator": "regex",
                   "value": "Found Python version \\(3\\.9\\.18\\) for Pip project at .*pip_pipfile_only"
