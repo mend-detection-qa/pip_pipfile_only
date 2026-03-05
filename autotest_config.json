@@ -48,7 +48,7 @@
                     "charset_normalizer-3.4.4-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
                     "importlib_metadata-8.7.1-py3-none-any.whl",
                     "click-8.1.8-py3-none-any.whl",
-                    "pytz-2025.2-py2.py3-none-any.whl"
+                    "pytz-2026.1.post1-py2.py3-none-any.whl"
                 ]
             },
             "_comment_dependencies_names_list": "Optional. Check specific libraries in direct dependencies. Operators: eq (==), contains (all items from expected list in actual), in(all items from actual list in expected), nin(actual list does not contain provided libs). If not provided, this check will not be performed.",
